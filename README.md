@@ -3,6 +3,6 @@ Recordatorio para optimizar wordpress
 
 Para optimizar y mejorar puntuacion en pagespeed
 
--compresion de texto en cpanel
--wp fastest cache
--wp rocket*
+|compresion de texto en cpanel
+|wp fastest cache https://wordpress.org/plugins/wp-fastest-cache/
+|wp rocket*
